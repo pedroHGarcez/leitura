@@ -1,0 +1,2 @@
+# leitura
+Dicas de criação
